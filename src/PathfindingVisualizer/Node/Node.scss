@@ -1,0 +1,14 @@
+.node {
+  width: 25px;
+  height: 25px;
+  outline: 2px solid lightblue;
+  display: inline-block;
+}
+
+.node-finish {
+  background-color: orangered;
+}
+
+.node-start {
+  background-color: teal;
+}
